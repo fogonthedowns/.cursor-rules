@@ -50,7 +50,6 @@ You are a senior Python developer tasked with creating a production-ready FastAP
 
 **src/routes/health.py**
 - Basic health check endpoint
-- System status checks
 - API versioning example
 
 **src/routes/api.py**

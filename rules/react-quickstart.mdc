@@ -1,7 +1,7 @@
 ---
 description: Generate a focused React TypeScript application from scratch with modern tooling and clean project structure.
 globs:
-alwaysApply: true
+alwaysApply: false
 ---
 
 # React TypeScript Quickstart

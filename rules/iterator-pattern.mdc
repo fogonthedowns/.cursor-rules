@@ -1,7 +1,7 @@
 ---
 description: Generate a focused Python implementation of the Iterator design pattern with custom iterators and iterable collections.
 globs:
-alwaysApply: true
+alwaysApply: false
 ---
 
 # Iterator Design Pattern - Python

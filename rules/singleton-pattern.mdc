@@ -1,7 +1,7 @@
 ---
 description: Generate a focused Python implementation of the Singleton design pattern with thread safety and multiple implementation approaches.
 globs:
-alwaysApply: true
+alwaysApply: false
 ---
 
 # Singleton Design Pattern - Python
