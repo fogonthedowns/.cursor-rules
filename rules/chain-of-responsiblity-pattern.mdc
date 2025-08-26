@@ -1,8 +1,10 @@
+---
+description: Generate a focused Python implementation of the Chain of Responsibility design pattern with request handling and processing chain.
+globs:
+alwaysApply: false
+---
+
 # Chain of Responsibility Design Pattern - Python
-
-**Rule Name:** `chain-of-responsibility-python`
-
-**Description:** Generate a focused Python implementation of the Chain of Responsibility design pattern with request handling and processing chain.
 
 ## Rule Configuration
 
